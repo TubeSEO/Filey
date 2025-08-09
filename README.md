@@ -1,3 +1,3 @@
 # Filey
 
-Hey! This is supposed to be a fast and "Modern" file managaer, try it out!
+Hey! This is supposed to be a fast and "Modern" file manager, try it out!
